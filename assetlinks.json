@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "br.com.santander.coiprd",
-    "sha256_cert_fingerprints":
-    ["74:7E:A9:23:2F:2F:9B:0B:B8:78:BB:A0:3D:C3:43:E7:31:3A:F1:96:1E:10:39:0E:19:11:8D:17:27:C3:DC:88"]
-  }
-}]
