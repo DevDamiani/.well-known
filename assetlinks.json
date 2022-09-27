@@ -1,11 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "br.com.santander.coiprd",
-      "sha256_cert_fingerprints":
-        ["BA:6C:67:5A:B1:7F:83:C7:53:57:01:6B:1E:7D:07:A9:BE:1C:E6:F0:59:35:F6:54:1D:58:35:DE:68:DC:26:DA"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.santander.coiprd",
+    "sha256_cert_fingerprints":
+    ["2E:7F:A9:7E:C8:A8:02:47:50:A3:3E:A7:0D:58:49:8F:64:56:9D:AD:A9:83:57:A9:68:8A:40:16:7A:F1:C8:D0"]
   }
-]
+}]
